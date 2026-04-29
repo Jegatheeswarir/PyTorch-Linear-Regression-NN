@@ -169,7 +169,7 @@ print(f"\nPrediction for x = 120: {y_new_pred:.8f}")
 
 
 ### 4. Best-Fit Line
-
+<img width="737" height="436" alt="Screenshot 2026-04-29 141736" src="https://github.com/user-attachments/assets/4bc43540-9fe7-4787-ac31-70113c3e64d5" />
 
 ### 5. Prediction
 
