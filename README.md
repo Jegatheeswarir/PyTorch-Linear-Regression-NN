@@ -160,7 +160,8 @@ print(f"\nPrediction for x = 120: {y_new_pred:.8f}")
 
 
 ### 2. Training Process
-<img width="666" height="433" alt="image" src="https://github.com/user-attachments/assets/85888ca1-ccff-469f-afde-048bb50755b0" />
+<img width="679" height="803" alt="image" src="https://github.com/user-attachments/assets/222d0d9e-a494-4f9b-9206-1d335d8f02d4" />
+<img width="549" height="825" alt="image" src="https://github.com/user-attachments/assets/01660216-7dfc-4357-9494-8ad773e4e246" />
 
 
 ### 3. Loss Curve
